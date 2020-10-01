@@ -3,11 +3,13 @@ using namespace std;
 
 int main() {
  
-    int i;
+    int i,number;
  
+    cout<<"\nEnter the number : ";
+    cin>>number;
     /* Run a loop from 1 to 100. */
  
-    for(i = 1; i <= 100; i++){
+    for(i = 1; i <= number; i++){
   
        /* If number is divisible by 2. */
   
