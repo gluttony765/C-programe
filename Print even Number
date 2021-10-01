@@ -5,7 +5,7 @@ int main() {
  
     int i;
  
-    /* Run a loop from 1 to 100. */
+    /* Run a loop from 1 up to 100. */
  
     for(i = 1; i <= 100; i++){
   
